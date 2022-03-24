@@ -1,0 +1,145 @@
+body{
+	background: url(img/fon_piatna_abstraktsiia_212755_3840x2400.jpg)no-repeat;
+	background-size: 1350px 900px;
+}
+
+
+
+/* title */
+.title{
+	color: #fff;
+	font-family: 'Lobster', cursive;
+	font-size: 35px;
+	text-align: center;
+	margin-top: 180px;
+	height: 30px;
+}
+
+.titles{
+	font-family: arial;
+	color: #fff;
+}
+
+
+
+/* text */
+.text{
+	color: #fff;
+	font-size: 17px;
+	font-family: arial;
+	text-align: center;
+	padding: 70px 250px;
+}
+
+
+
+/* section */
+.section1{
+	background-size: 100%;
+	padding: 140px;
+
+	background-color: #004242;
+	text-align: center;
+	margin-top: 140px;
+	margin-left: -10px;
+	margin-right: -10px;
+
+}
+
+#a1{
+	color: #fff;
+}
+
+
+.section2{
+	background-color: #EB3740;
+	text-align: center;
+	margin-left: -10px;
+	margin-right: -10px;
+	background-size: 100%;
+	padding: 140px;
+}
+
+.section3{
+	background-color: #F4CA16;
+	text-align: center;
+	margin-left: -10px;
+	margin-right: -10px;
+	background-size: 100%;
+	padding: 140px;
+}
+
+
+
+.section4{
+	background-color: #F35F03;
+	text-align: center;
+	margin-left: -10px;
+	margin-right: -10px;
+	background-size: 100%;
+	padding: 140px;
+}
+
+.section5{
+	background-color: #CC397B;
+	text-align: center;
+	margin-left: -10px;
+	margin-right: -10px;
+	background-size: 100%;
+	padding: 140px;
+}
+
+
+.section6{
+	background-color: #318CE7;
+	text-align: center;
+	margin-left: -10px;
+	margin-right: -10px;
+	background-size: 100%;
+	padding: 140px;
+}
+
+.section7{
+	background-color: #20B2AA;
+	text-align: center;
+	margin-left: -10px;
+	margin-right: -10px;
+	background-size: 100%;
+	padding: 140px;
+}
+
+.section8{
+	background-color: #50C878;
+	text-align: center;
+	margin-left: -10px;
+	margin-right: -10px;
+	background-size: 100%;
+	padding: 140px;
+}
+
+.section9{
+	background: url(img/fon_oblaka_sinij_214824_3840x2400.jpg);
+	text-align: center;
+	margin-left: -10px;
+	margin-right: -10px;
+	padding: 140px;
+}
+
+
+/* bow */
+.bow{
+	color: #fff;
+	font-size: 70px;
+	width: max-content;
+ 	transform: rotate(180deg);
+ 	margin-left: 630px;
+}
+
+.bow2{
+	color: #fff;
+	font-size: 40px;
+ 	margin-left: 646px;
+ 	font-family: arial;
+ 	margin-top: -40px;
+ 	margin-bottom: -128px;
+}
